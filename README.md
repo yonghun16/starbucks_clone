@@ -1,8 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=starbucks.co.kr%20-%20Clone&fontSize=45&animation=fadeIn&fontAlignY=38&desc=FrontEnd16&descAlignY=55&descAlign=85)
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/yonghun16/starbucks_clone/main/main_img.png" width=800px />
+<div align="center">
 	
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=starbucks.co.kr%20-%20Clone&fontSize=45&animation=fadeIn&fontAlignY=38&desc=FrontEnd16&descAlignY=55&descAlign=85)
+
+
+  <img src="https://raw.githubusercontent.com/yonghun16/starbucks_clone/main/main_img.png" width=800px />
+</div>
+
+</br>
+
 <ul>
 	<li>
 		<a href="https://www.starbucks.co.kr">원본 보러가기</a>( starbucks.co.kr )
